@@ -51,3 +51,4 @@ O Django é um dos frameworks que faz uso do padrão Singleton. O objeto de conf
 ![images](images/modulo_singleton.PNG)
 ![images](images/codigo_com_singleton.PNG)
 
+Link para apresentação: https://drive.google.com/file/d/1_0snUTQTgxSa1z6yp6Vbga1mRCMxlxkT/view?usp=sharing
